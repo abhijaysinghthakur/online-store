@@ -1,0 +1,4 @@
+ProductID	ProductName	Quantity	Price
+1	guava	1	88
+Total - 88
+- 100000

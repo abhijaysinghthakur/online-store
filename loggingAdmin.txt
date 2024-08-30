@@ -1,0 +1,37 @@
+New product with product id 9 added successfully
+Quantity of product with product id 9 modified from 5 to 10000 
+Price of product with ID 9 has been successfully modified from 500 to 1.
+Product with product id 9 deleted succesfully
+Current Inventory:
+ProductID	ProductName	Quantity	Price
+2	Guavas	0	10
+3	Melons	2	100000
+4	vihan	10	1000
+1	guava	94	88
+2	apple	38	10
+New product with product id 90 added successfully
+Current Inventory:
+ProductID	ProductName	Quantity	Price
+2	Guavas	0	10
+3	Melons	2	100000
+4	vihan	10	1000
+1	guava	91	88
+2	apple	38	10
+90	Potato	1000	100000
+Product with product id 1 deleted succesfully
+Product with product id 2 deleted succesfully
+Product with product id 3 deleted succesfully
+Product with product id 90 deleted succesfully
+Product with product id 2 deleted succesfully
+Product with product id 4 deleted succesfully
+New product with product id 1 added successfully
+New product with product id 2 added successfully
+New product with product id 3 added successfully
+New product with product id 4 added successfully
+Current Inventory:
+ProductID	ProductName	Quantity	Price
+1	Kiwi	500	20
+2	Mobile	20	1000000
+3	Television	200	50000
+4	PS4	10	2000000
+New product with product id 5 added successfully
