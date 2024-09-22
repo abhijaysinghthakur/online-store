@@ -341,14 +341,14 @@ int main()
                             scanf("%d", &upiPIN);
 
                             // Code for UPI payment processing
-                            printf("Processing UPI payment...\n");
+                            printf("Processing UPI Payment...\n");
                             break;
                         }
                         break;
                     }
                 }
                 ch = "y";
-                printf("Payment Successfull!\n");
+                printf("Payment Success!\n");
                 write(sock, &ch, sizeof(char));
                 read(sock, &ch, sizeof(char));
                 write(sock, &total, sizeof(int));
@@ -380,7 +380,7 @@ int main()
 
                 int id;
                 read(sock, &id, sizeof(int));
-                printf("Your new customer id : %d\n", id);
+                printf("Your New Customer id : %d\n", id);
             }
             else
             {
